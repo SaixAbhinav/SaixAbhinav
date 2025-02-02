@@ -6,7 +6,6 @@ I'm a **BCA student at VIPS Learning** with a passion for **machine learning** a
 
 - Experimenting with various machine learning models and frameworks.
 - Exploring deep learning techniques to solve real-world problems.
-- Collaborating on projects that integrate data science with creative solutions.
 
 ## 🛠 Technologies & Tools
 
