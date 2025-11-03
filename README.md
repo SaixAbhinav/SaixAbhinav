@@ -1,6 +1,6 @@
 # Hi there, I'm Sai Abhinav! 👋
 
-I'm a **BCA student at VIPS Learning** with a passion for **machine learning** and artificial intelligence. I love diving into data, exploring new algorithms, and building projects that push the boundaries of what's possible with tech.
+I'm a **BCA student at VIPS** with a passion for **machine learning** and artificial intelligence. I love diving into data, exploring new algorithms, and building projects that push the boundaries of what's possible with tech.
 
 ## 🚀 What I'm Working On
 
