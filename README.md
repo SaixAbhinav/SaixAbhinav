@@ -1,6 +1,10 @@
-# Sai Abhinav
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sai%20Abhinav&fontSize=50&fontColor=E0AAFF&fontAlignY=40&animation=fadeIn" alt="Sai Abhinav banner" width="100%"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Reinforcement+Learning+%7C+Computer+Vision;Local-first+LLM+Deployment;Building+systems+that+ship)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Reinforcement+Learning+%C2%B7+Computer+Vision;Local-first+LLM+Deployment;Exploring+autonomy%2C+on+Earth+and+beyond" alt="Typing SVG" /></a>
+</p>
 
 MCA student at GGSIPU, focused on reinforcement learning, computer vision, and local-first LLM deployment. I build systems that go past the notebook: a PPO traffic-signal agent validated against a live SUMO simulation, a CNN diagnostic tool, and a fully offline LLM assistant.
 
@@ -53,13 +57,6 @@ Flags suspicious accounts from profile metadata and engagement patterns.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![Sai's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SaixAbhinav&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaixAbhinav&layout=compact)
 
 ---
 
