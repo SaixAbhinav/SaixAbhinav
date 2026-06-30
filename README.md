@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SaixAbhinav/SaixAbhinav/main/banner.svg" alt="Sai Abhinav banner" width="100%"/>
-</p>
+# Sai Abhinav
 
-MCA student at GGSIPU, focused on reinforcement learning, computer vision, and local-first LLM deployment. I build systems that go past the notebook: a PPO traffic-signal agent validated against a live SUMO simulation, a CNN diagnostic tool, and a fully offline LLM assistant.
+AI/ML Engineer · Reinforcement Learning · Computer Vision · Local-first LLM Deployment
+
+MCA student at GGSIPU. I build systems that go past the notebook: a PPO traffic-signal agent validated against a live SUMO simulation, a CNN diagnostic tool, and a fully offline LLM assistant.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saixabhinav.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-abhinav-933b3b285/)
