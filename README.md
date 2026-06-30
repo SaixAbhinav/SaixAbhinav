@@ -58,8 +58,8 @@ Flags suspicious accounts from profile metadata and engagement patterns.
 
 ## 📈 GitHub Stats
 
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaixAbhinav&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaixAbhinav&layout=compact)
+![Sai's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SaixAbhinav&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaixAbhinav&layout=compact)
 
 ---
 
