@@ -15,44 +15,44 @@ MCA student at GGSIPU. I build systems that go past the notebook: a PPO traffic-
 ### [SmartSignal](https://github.com/SaixAbhinav/smart-signal) — RL traffic signal control
 PPO agent trained in SUMO that outperforms fixed-timing controllers: **-28% average wait time, +22% throughput**.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-4B0082?style=flat)
-![SUMO](https://img.shields.io/badge/SUMO-009688?style=flat)
-![Gym](https://img.shields.io/badge/Custom_Gym_Env-2E8B57?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-1F2937?style=flat&logo=pytorch&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-1F2937?style=flat)
+![SUMO](https://img.shields.io/badge/SUMO-1F2937?style=flat)
+![Gym](https://img.shields.io/badge/Custom_Gym_Env-1F2937?style=flat)
 
 ### [AI Workflow Copilot](https://github.com/SaixAbhinav/Workflow_copilot) — local-first LLM assistant
 Desktop assistant (PyQt5 + Ollama) that manages Gmail and Calendar entirely on-device — no API calls, no data leaving the machine.
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white)
-![Gmail API](https://img.shields.io/badge/Gmail_API-EA4335?style=flat&logo=gmail&logoColor=white)
-![Calendar API](https://img.shields.io/badge/Calendar_API-4285F4?style=flat&logo=googlecalendar&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-1F2937?style=flat&logo=ollama&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-1F2937?style=flat&logo=qt&logoColor=white)
+![Gmail API](https://img.shields.io/badge/Gmail_API-1F2937?style=flat&logo=gmail&logoColor=white)
+![Calendar API](https://img.shields.io/badge/Calendar_API-1F2937?style=flat&logo=googlecalendar&logoColor=white)
 
 ### [Skin Cancer Detection](https://github.com/SaixAbhinav/skin_cancer_prediction) — dermatological image classifier
 CNN trained on lesion imagery for early-detection triage, **94% classification accuracy**.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-1F2937?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-1F2937?style=flat&logo=opencv&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-1F2937?style=flat)
 
 ### [Fake Account Detector](https://github.com/SaixAbhinav/Instagram_fake_account_detector) — Instagram bot/fake profile classifier
 Flags suspicious accounts from profile metadata and engagement patterns.
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1F2937?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1F2937?style=flat&logo=pandas&logoColor=white)
 
 ---
 
 ## 🧰 Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1F2937?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-1F2937?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=flat&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1F2937?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-1F2937?style=flat&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1F2937?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1F2937?style=flat&logo=numpy&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-1F2937?style=flat&logo=ollama&logoColor=white)
 
 ---
 
