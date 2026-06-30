@@ -1,6 +1,6 @@
 # Sai Abhinav
 
-AI/ML Engineer · Reinforcement Learning · Computer Vision · Local-first LLM Deployment
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Reinforcement+Learning+%C2%B7+Computer+Vision;Local-first+LLM+Deployment)](https://git.io/typing-svg)
 
 MCA student at GGSIPU. I build systems that go past the notebook: a PPO traffic-signal agent validated against a live SUMO simulation, a CNN diagnostic tool, and a fully offline LLM assistant.
 
