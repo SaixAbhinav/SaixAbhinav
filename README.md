@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sai%20Abhinav&fontSize=50&fontColor=E0AAFF&fontAlignY=40&animation=fadeIn" alt="Sai Abhinav banner" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Reinforcement+Learning+%C2%B7+Computer+Vision;Local-first+LLM+Deployment;Exploring+autonomy%2C+on+Earth+and+beyond" alt="Typing SVG" /></a>
+  <img src="https://raw.githubusercontent.com/SaixAbhinav/SaixAbhinav/main/banner.svg" alt="Sai Abhinav banner" width="100%"/>
 </p>
 
 MCA student at GGSIPU, focused on reinforcement learning, computer vision, and local-first LLM deployment. I build systems that go past the notebook: a PPO traffic-signal agent validated against a live SUMO simulation, a CNN diagnostic tool, and a fully offline LLM assistant.
