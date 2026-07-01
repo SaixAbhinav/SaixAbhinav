@@ -29,7 +29,7 @@ Desktop assistant (PyQt5 + Ollama) that manages Gmail and Calendar entirely on-d
 ![Gmail API](https://img.shields.io/badge/Gmail_API-1F2937?style=flat&logo=gmail&logoColor=white)
 ![Calendar API](https://img.shields.io/badge/Calendar_API-1F2937?style=flat&logo=googlecalendar&logoColor=white)
 
-### [Skin Cancer Detection](https://github.com/SaixAbhinav/skin_cancer_prediction) — dermatological image classifier
+### [Skin Cancer Detection](https://github.com/SaixAbhinav/DermaScan) — dermatological image classifier
 CNN trained on lesion imagery for early-detection triage, **94% classification accuracy**.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1F2937?style=flat&logo=pytorch&logoColor=white)
