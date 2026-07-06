@@ -2,8 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Reinforcement+Learning+%C2%B7+Computer+Vision;Local-first+LLM+Deployment)](https://git.io/typing-svg)
 
-MCA student who builds and deploys end-to-end ML systems across reinforcement learning, computer vision, and LLM
-workflows. 
+I train models and ship them to real environments — reinforcement learning agents, computer-vision classifiers,
+and local-first LLM tools that run where the user is, not just in a notebook. Currently finishing my MCA.
+
+🔭 **Currently building:** an RL racing agent you can play against in your browser — PPO trained on a custom
+physics env, exported to ONNX, running at 60fps client-side. Live demo coming.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saixabhinav.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-abhinav-933b3b285/)
