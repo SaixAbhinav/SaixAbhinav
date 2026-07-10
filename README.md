@@ -5,7 +5,7 @@
 I train models and ship them to real environments — reinforcement learning agents, computer-vision classifiers,
 and local-first LLM tools that run where the user is, not just in a notebook. Currently finishing my MCA.
 
-🔭 **Currently building:** an RL racing agent you can play against in your browser — PPO trained on a custom
+ **Currently building:** an RL racing agent you can play against in your browser — PPO trained on a custom
 physics env, exported to ONNX, running at 60fps client-side. Live demo coming.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saixabhinav.vercel.app)
@@ -14,7 +14,7 @@ physics env, exported to ONNX, running at 60fps client-side. Live demo coming.
 
 ---
 
-## 🧩 Projects
+## Projects
 
 ### [SmartSignal](https://github.com/SaixAbhinav/smart-signal) — RL traffic signal control
 PPO agent trained in SUMO that outperforms fixed-timing controllers: **-28% average wait time, +22% throughput**.
@@ -24,7 +24,7 @@ PPO agent trained in SUMO that outperforms fixed-timing controllers: **-28% aver
 ![SUMO](https://img.shields.io/badge/SUMO-1F2937?style=flat)
 ![Gym](https://img.shields.io/badge/Custom_Gym_Env-1F2937?style=flat)
 
-### [AI Workflow Copilot](https://github.com/SaixAbhinav/Workflow_copilot) — local-first LLM assistant
+### [Workflow Copilot](https://github.com/SaixAbhinav/Workflow_copilot) — local-first LLM assistant
 Desktop assistant (PyQt5 + Ollama) that manages Gmail and Calendar entirely on-device — no API calls, no data leaving the machine.
 
 ![Ollama](https://img.shields.io/badge/Ollama-1F2937?style=flat&logo=ollama&logoColor=white)
@@ -32,7 +32,7 @@ Desktop assistant (PyQt5 + Ollama) that manages Gmail and Calendar entirely on-d
 ![Gmail API](https://img.shields.io/badge/Gmail_API-1F2937?style=flat&logo=gmail&logoColor=white)
 ![Calendar API](https://img.shields.io/badge/Calendar_API-1F2937?style=flat&logo=googlecalendar&logoColor=white)
 
-### [Skin Cancer Detection](https://github.com/SaixAbhinav/DermaScan) — dermatological image classifier
+### [DermaScan](https://github.com/SaixAbhinav/DermaScan) — dermatological image classifier
 CNN trained on lesion imagery for early-detection triage, **94% classification accuracy**.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1F2937?style=flat&logo=pytorch&logoColor=white)
@@ -47,7 +47,7 @@ Flags suspicious accounts from profile metadata and engagement patterns.
 
 ---
 
-## 🧰 Stack
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-1F2937?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1F2937?style=flat&logo=pytorch&logoColor=white)
@@ -59,11 +59,3 @@ Flags suspicious accounts from profile metadata and engagement patterns.
 ![Ollama](https://img.shields.io/badge/Ollama-1F2937?style=flat&logo=ollama&logoColor=white)
 
 ---
-
-## 🐍 Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaixAbhinav/SaixAbhinav/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaixAbhinav/SaixAbhinav/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/SaixAbhinav/SaixAbhinav/output/github-contribution-grid-snake.svg">
-</picture>
