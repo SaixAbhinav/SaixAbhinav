@@ -5,8 +5,9 @@
 I train models and ship them to real environments — reinforcement learning agents, computer-vision classifiers,
 and local-first LLM tools that run where the user is, not just in a notebook. Currently finishing my MCA.
 
- **Currently building:** an RL racing agent you can play against in your browser — PPO trained on a custom
-physics env, exported to ONNX, running at 60fps client-side. Live demo coming.
+ **Currently building:** A Voice-based AI mock interviewer - free, self-hostable interview prep, an AI interviewer asks questions, probes follow-ups, and scores you against rubrics and targets your weak areas.
+
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saixabhinav.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-abhinav-933b3b285/)
